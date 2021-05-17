@@ -1,0 +1,26 @@
+.form-signin {
+    max-width: 30%;
+    margin: auto;
+}
+
+.about .logo {
+    border: 3px solid darkcyan;
+}
+
+.navbar .navbar-brand img {
+    margin-bottom: 0;
+}
+
+.avatar img {
+    max-width: 100%;
+}
+
+.account .description {
+    font-size: 2ch;
+}
+
+@media (max-width: 768px) {
+    .form-signin {
+        max-width: 80%;
+    }
+}
